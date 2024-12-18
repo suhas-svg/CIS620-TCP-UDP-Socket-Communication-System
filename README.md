@@ -1,5 +1,5 @@
 
-# Client-Server Project Using TCP/UDP Sockets in C and Go
+# Client-Server Using TCP/UDP Sockets in C and Go
 
 This project demonstrates the implementation of a **Client-Server system** using **TCP/UDP sockets**, written in **C** and **Go**. The system facilitates communication between a client and a database service, with a service-mapper acting as a directory for discovering services.
 
