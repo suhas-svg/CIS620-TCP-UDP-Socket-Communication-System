@@ -189,6 +189,3 @@ Feel free to submit issues or feature requests via GitHub.
 ## Author
 
 This project was developed as part of a learning exercise to understand **TCP/UDP sockets** and explore **C** and **Go programming**.
-```
-
-This README provides a detailed overview of the project, its components, commands, and setup instructions.
